@@ -1,0 +1,12 @@
+{
+  "name": "free-code-camp-certification-projects",
+  "version": "1.0.0",
+  "description": "Contains the codes for the free code camp certification projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Basavakiran GS",
+  "license": "ISC"
+}
